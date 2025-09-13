@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/big_event
+    username: root
+    password: 114514zym
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
